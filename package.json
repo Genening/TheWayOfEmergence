@@ -1,0 +1,14 @@
+{
+  "name": "emergence-book",
+  "version": "1.0.0",
+  "description": "涌现之道 - 从元素到涌现的哲学方法论",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
