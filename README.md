@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://genening.github.io/TheWayOfEmergence/">在线阅读 | Read Online</a>
+  <a href="https://foldingverse.github.io/TheWayOfEmergence/">在线阅读 | Read Online</a>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 
 ```bash
 # 克隆仓库 | Clone repository
-git clone https://github.com/Genening/TheWayOfEmergence.git
+git clone https://github.com/Foldingverse/TheWayOfEmergence.git
 cd TheWayOfEmergence
 
 # 安装依赖 | Install dependencies

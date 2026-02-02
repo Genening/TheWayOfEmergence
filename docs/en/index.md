@@ -14,7 +14,7 @@ hero:
       link: /en/intro
     - theme: alt
       text: GitHub
-      link: https://github.com/Genening/TheWayOfEmergence
+      link: https://github.com/Foldingverse/TheWayOfEmergence
 
 features:
   - icon: 🔬

@@ -4,10 +4,8 @@ export default defineConfig({
   title: 'The Way of Emergence',
   description: 'A Philosophical Methodology for Understanding Complex Systems',
 
-  base: '/TheWayOfEmergence/',
-
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/TheWayOfEmergence/logo.svg' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }],
   ],
 
   locales: {
@@ -162,7 +160,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Genening/TheWayOfEmergence' }
+      { icon: 'github', link: 'https://github.com/Foldingverse/TheWayOfEmergence' }
     ]
   }
 })
