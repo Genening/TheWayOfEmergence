@@ -17,7 +17,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '首页', link: '/' },
-          { text: '开始阅读', link: '/intro' },
+          { text: '开始阅读', link: '/preface' },
           {
             text: '章节导航',
             items: [
@@ -29,9 +29,10 @@ export default defineConfig({
         ],
         sidebar: [
           {
-            text: '序言',
+            text: '序',
             items: [
-              { text: '认识复杂世界的新视角', link: '/intro' }
+              { text: '自序：人类文明的认知脉络', link: '/preface' },
+              { text: '序言：认识复杂世界的新视角', link: '/intro' }
             ]
           },
           {
@@ -90,7 +91,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'Start Reading', link: '/en/intro' },
+          { text: 'Start Reading', link: '/en/preface' },
           {
             text: 'Chapters',
             items: [
@@ -104,7 +105,8 @@ export default defineConfig({
           {
             text: 'Preface',
             items: [
-              { text: 'A New Perspective on Complexity', link: '/en/intro' }
+              { text: "Author's Preface: The Cognitive Thread of Civilization", link: '/en/preface' },
+              { text: 'Introduction: A New Perspective on Complexity', link: '/en/intro' }
             ]
           },
           {

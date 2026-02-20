@@ -3,36 +3,44 @@ layout: home
 
 hero:
   name: 涌现之道
-  text: 从元素到涌现
-  tagline: 一个理解复杂世界的哲学方法论
+  text: 人类文明的认知脉络
+  tagline: 学习 · 掌握 · 享受 · 创造 —— 一根贯穿一切学科的线索
   image:
     src: /logo.svg
     alt: 涌现之道
   actions:
     - theme: brand
       text: 开始阅读
-      link: /intro
+      link: /preface
     - theme: alt
       text: GitHub
       link: https://github.com/Foldingverse/TheWayOfEmergence
 
 features:
+  - icon: 🧬
+    title: 一根贯穿一切的线索
+    details: 物理→化学→生物→社会→经济→智能，不同学科共享同一套底层逻辑。涌现是连接一切知识的认知脉络。
+    link: /preface
   - icon: 🔬
     title: 理论基础
     details: 从物理学提炼出"元素-关系-涌现"框架，建立三层认知模型，理解复杂性的本质来源。
     link: /part1/chapter1-framework
   - icon: 🌍
     title: 跨学科应用
-    details: 将框架应用于生物学、社会学、经济学、计算机科学、城市规划，展示其普适性。
-    link: /part2/chapter3-biology
+    details: 将框架应用于物理学、化学、生物学、社会学、经济学、计算机科学、城市规划，展示人类文明知识的深层统一。
+    link: /part2/chapter3-physics
   - icon: 🧭
     title: 方法论指南
     details: 提供可操作的四步分析法，帮助你理解任何复杂系统，找到干预的杠杆点。
-    link: /part3/chapter8-methodology
+    link: /part3/chapter10-methodology
   - icon: 🪞
     title: 理解自我
     details: 用涌现视角认识你自己——身体、心灵、自由意志、人生意义都是涌现的奇迹。
-    link: /part3/chapter10-self
+    link: /part3/chapter12-self
+  - icon: 🤖
+    title: 面向智能时代
+    details: 理解智能如何涌现，在AI时代保持独立思考，成为文明的主动创造者而非被动旁观者。
+    link: /part2/chapter8-computer-science
 ---
 
 <style>
@@ -48,11 +56,11 @@ features:
 
 ## 核心观点
 
-> **世界的复杂性源于简单。**
+> **人类文明的璀璨，源自同一种底层机制。**
 >
-> 在适当的分析层次上识别基本元素及其互动规则，耐心观察从量变到质变的临界点，便能理解那些看似神秘的整体性质不过是自然涌现的结果。
+> 物理学向上涌现出化学，化学向上涌现出生物学，每一层都建立在底层之上，整合出全新的秩序与复杂性。社会、经济、智能，遵循同样的逻辑。
 >
-> 这是一种既尊重还原又超越还原的认知之道。
+> 涌现之道，是一根贯穿所有学科的认知线索——帮助你学习、掌握、享受，并创造属于你自己的文明。
 
 ---
 
@@ -60,15 +68,16 @@ features:
 
 | 部分 | 内容 | 章节 |
 |-----|------|------|
+| **自序** | 人类文明的认知脉络 | 为什么写这本书、适合谁、面向智能时代 |
 | **第一部分** | 理论基础 | 元素-关系-涌现框架、三层认知模型 |
-| **第二部分** | 跨学科应用 | 生物学、社会学、经济学、计算机科学、城市规划 |
+| **第二部分** | 跨学科应用 | 物理学、化学、生物学、社会学、经济学、计算机科学、城市规划 |
 | **第三部分** | 方法论指南 | 四步分析法、层级相对性、理解自我 |
 | **尾声** | 总结与资源 | 结语、延伸阅读 |
 
 ---
 
 <div style="text-align: center; margin-top: 3rem;">
-  <a href="/intro" style="display: inline-block; padding: 0.75rem 2rem; background: linear-gradient(135deg, #da7756, #e8a87c); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
+  <a href="/preface" style="display: inline-block; padding: 0.75rem 2rem; background: linear-gradient(135deg, #da7756, #e8a87c); color: white; border-radius: 8px; text-decoration: none; font-weight: 600;">
     开始阅读 →
   </a>
 </div>
