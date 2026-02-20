@@ -1,8 +1,8 @@
 ---
-title: "Chapter 7: Urban Planning — The Emergence of Vitality"
+title: "Chapter 9: Urban Planning — The Emergence of Vitality"
 ---
 
-# Chapter 7: Urban Planning — The Emergence of Vitality
+# Chapter 9: Urban Planning — The Emergence of Vitality
 
 ## Cities: Humanity's Largest Emergence Experiment
 

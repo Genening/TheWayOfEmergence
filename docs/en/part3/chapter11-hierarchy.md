@@ -1,8 +1,8 @@
 ---
-title: "Chapter 9: The Relativity of Hierarchies"
+title: "Chapter 11: The Relativity of Hierarchies"
 ---
 
-# Chapter 9: The Relativity of Hierarchies
+# Chapter 11: The Relativity of Hierarchies
 
 ## Hierarchical Nesting: Emergence of Emergence
 

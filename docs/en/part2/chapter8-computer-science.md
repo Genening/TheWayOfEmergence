@@ -1,8 +1,8 @@
 ---
-title: "Chapter 6: Computer Science — The Emergence of Intelligence"
+title: "Chapter 8: Computer Science — The Emergence of Intelligence"
 ---
 
-# Chapter 6: Computer Science — The Emergence of Intelligence
+# Chapter 8: Computer Science — The Emergence of Intelligence
 
 ## From Computation to Intelligence
 

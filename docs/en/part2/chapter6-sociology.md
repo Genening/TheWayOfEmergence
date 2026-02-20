@@ -1,8 +1,8 @@
 ---
-title: "Chapter 4: Sociology — The Emergence of Order"
+title: "Chapter 6: Sociology — The Emergence of Order"
 ---
 
-# Chapter 4: Sociology — The Emergence of Order
+# Chapter 6: Sociology — The Emergence of Order
 
 ## The Puzzle of Social Order
 

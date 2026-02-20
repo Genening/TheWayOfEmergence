@@ -1,8 +1,8 @@
 ---
-title: "Chapter 5: Economics — The Emergence of Markets"
+title: "Chapter 7: Economics — The Emergence of Markets"
 ---
 
-# Chapter 5: Economics — The Emergence of Markets
+# Chapter 7: Economics — The Emergence of Markets
 
 ## Economic Systems: The Most Complex Human-Made Emergence
 

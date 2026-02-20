@@ -1,8 +1,8 @@
 ---
-title: "Chapter 3: Biology — The Emergence of Life"
+title: "Chapter 5: Biology — The Emergence of Life"
 ---
 
-# Chapter 3: Biology — The Emergence of Life
+# Chapter 5: Biology — The Emergence of Life
 
 ## Life: The Greatest Emergence in the Material World
 

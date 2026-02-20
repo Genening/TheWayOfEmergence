@@ -22,8 +22,8 @@ export default defineConfig({
             text: '章节导航',
             items: [
               { text: '第一部分：理论基础', link: '/part1/chapter1-framework' },
-              { text: '第二部分：跨学科应用', link: '/part2/chapter-physics' },
-              { text: '第三部分：方法论指南', link: '/part3/chapter8-methodology' },
+              { text: '第二部分：跨学科应用', link: '/part2/chapter3-physics' },
+              { text: '第三部分：方法论指南', link: '/part3/chapter10-methodology' },
             ]
           }
         ],
@@ -46,22 +46,22 @@ export default defineConfig({
             text: '第二部分：跨学科应用',
             collapsed: false,
             items: [
-              { text: '物理学——规律的涌现', link: '/part2/chapter-physics' },
-              { text: '化学——结构的涌现', link: '/part2/chapter-chemistry' },
-              { text: '第三章：生物学——生命的涌现', link: '/part2/chapter3-biology' },
-              { text: '第四章：社会学——秩序的涌现', link: '/part2/chapter4-sociology' },
-              { text: '第五章：经济学——市场的涌现', link: '/part2/chapter5-economics' },
-              { text: '第六章：计算机科学——智能的涌现', link: '/part2/chapter6-computer-science' },
-              { text: '第七章：城市规划——活力的涌现', link: '/part2/chapter7-urban-planning' }
+              { text: '第三章：物理学——规律的涌现', link: '/part2/chapter3-physics' },
+              { text: '第四章：化学——结构的涌现', link: '/part2/chapter4-chemistry' },
+              { text: '第五章：生物学——生命的涌现', link: '/part2/chapter5-biology' },
+              { text: '第六章：社会学——秩序的涌现', link: '/part2/chapter6-sociology' },
+              { text: '第七章：经济学——市场的涌现', link: '/part2/chapter7-economics' },
+              { text: '第八章：计算机科学——智能的涌现', link: '/part2/chapter8-computer-science' },
+              { text: '第九章：城市规划——活力的涌现', link: '/part2/chapter9-urban-planning' }
             ]
           },
           {
             text: '第三部分：方法论指南',
             collapsed: false,
             items: [
-              { text: '第八章：方法论应用指南', link: '/part3/chapter8-methodology' },
-              { text: '第九章：层级的相对性', link: '/part3/chapter9-hierarchy' },
-              { text: '第十章：用涌现框架理解自我', link: '/part3/chapter10-self' }
+              { text: '第十章：方法论应用指南', link: '/part3/chapter10-methodology' },
+              { text: '第十一章：层级的相对性', link: '/part3/chapter11-hierarchy' },
+              { text: '第十二章：用涌现框架理解自我', link: '/part3/chapter12-self' }
             ]
           },
           {
@@ -95,8 +95,8 @@ export default defineConfig({
             text: 'Chapters',
             items: [
               { text: 'Part I: Theoretical Foundation', link: '/en/part1/chapter1-framework' },
-              { text: 'Part II: Cross-disciplinary Applications', link: '/en/part2/chapter-physics' },
-              { text: 'Part III: Methodology Guide', link: '/en/part3/chapter8-methodology' },
+              { text: 'Part II: Cross-disciplinary Applications', link: '/en/part2/chapter3-physics' },
+              { text: 'Part III: Methodology Guide', link: '/en/part3/chapter10-methodology' },
             ]
           }
         ],
@@ -119,22 +119,22 @@ export default defineConfig({
             text: 'Part II: Cross-disciplinary Applications',
             collapsed: false,
             items: [
-              { text: 'Physics — The Emergence of Laws', link: '/en/part2/chapter-physics' },
-              { text: 'Chemistry — The Emergence of Structure', link: '/en/part2/chapter-chemistry' },
-              { text: 'Chapter 3: Biology — The Emergence of Life', link: '/en/part2/chapter3-biology' },
-              { text: 'Chapter 4: Sociology — The Emergence of Order', link: '/en/part2/chapter4-sociology' },
-              { text: 'Chapter 5: Economics — The Emergence of Markets', link: '/en/part2/chapter5-economics' },
-              { text: 'Chapter 6: Computer Science — The Emergence of Intelligence', link: '/en/part2/chapter6-computer-science' },
-              { text: 'Chapter 7: Urban Planning — The Emergence of Vitality', link: '/en/part2/chapter7-urban-planning' }
+              { text: 'Chapter 3: Physics — The Emergence of Laws', link: '/en/part2/chapter3-physics' },
+              { text: 'Chapter 4: Chemistry — The Emergence of Structure', link: '/en/part2/chapter4-chemistry' },
+              { text: 'Chapter 5: Biology — The Emergence of Life', link: '/en/part2/chapter5-biology' },
+              { text: 'Chapter 6: Sociology — The Emergence of Order', link: '/en/part2/chapter6-sociology' },
+              { text: 'Chapter 7: Economics — The Emergence of Markets', link: '/en/part2/chapter7-economics' },
+              { text: 'Chapter 8: Computer Science — The Emergence of Intelligence', link: '/en/part2/chapter8-computer-science' },
+              { text: 'Chapter 9: Urban Planning — The Emergence of Vitality', link: '/en/part2/chapter9-urban-planning' }
             ]
           },
           {
             text: 'Part III: Methodology Guide',
             collapsed: false,
             items: [
-              { text: 'Chapter 8: Methodology Application Guide', link: '/en/part3/chapter8-methodology' },
-              { text: 'Chapter 9: The Relativity of Hierarchies', link: '/en/part3/chapter9-hierarchy' },
-              { text: 'Chapter 10: Understanding the Self', link: '/en/part3/chapter10-self' }
+              { text: 'Chapter 10: Methodology Application Guide', link: '/en/part3/chapter10-methodology' },
+              { text: 'Chapter 11: The Relativity of Hierarchies', link: '/en/part3/chapter11-hierarchy' },
+              { text: 'Chapter 12: Understanding the Self', link: '/en/part3/chapter12-self' }
             ]
           },
           {
