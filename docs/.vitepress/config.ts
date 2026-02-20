@@ -22,7 +22,7 @@ export default defineConfig({
             text: '章节导航',
             items: [
               { text: '第一部分：理论基础', link: '/part1/chapter1-framework' },
-              { text: '第二部分：跨学科应用', link: '/part2/chapter3-biology' },
+              { text: '第二部分：跨学科应用', link: '/part2/chapter-physics' },
               { text: '第三部分：方法论指南', link: '/part3/chapter8-methodology' },
             ]
           }
@@ -46,6 +46,8 @@ export default defineConfig({
             text: '第二部分：跨学科应用',
             collapsed: false,
             items: [
+              { text: '物理学——规律的涌现', link: '/part2/chapter-physics' },
+              { text: '化学——结构的涌现', link: '/part2/chapter-chemistry' },
               { text: '第三章：生物学——生命的涌现', link: '/part2/chapter3-biology' },
               { text: '第四章：社会学——秩序的涌现', link: '/part2/chapter4-sociology' },
               { text: '第五章：经济学——市场的涌现', link: '/part2/chapter5-economics' },
@@ -93,7 +95,7 @@ export default defineConfig({
             text: 'Chapters',
             items: [
               { text: 'Part I: Theoretical Foundation', link: '/en/part1/chapter1-framework' },
-              { text: 'Part II: Cross-disciplinary Applications', link: '/en/part2/chapter3-biology' },
+              { text: 'Part II: Cross-disciplinary Applications', link: '/en/part2/chapter-physics' },
               { text: 'Part III: Methodology Guide', link: '/en/part3/chapter8-methodology' },
             ]
           }
@@ -117,6 +119,8 @@ export default defineConfig({
             text: 'Part II: Cross-disciplinary Applications',
             collapsed: false,
             items: [
+              { text: 'Physics — The Emergence of Laws', link: '/en/part2/chapter-physics' },
+              { text: 'Chemistry — The Emergence of Structure', link: '/en/part2/chapter-chemistry' },
               { text: 'Chapter 3: Biology — The Emergence of Life', link: '/en/part2/chapter3-biology' },
               { text: 'Chapter 4: Sociology — The Emergence of Order', link: '/en/part2/chapter4-sociology' },
               { text: 'Chapter 5: Economics — The Emergence of Markets', link: '/en/part2/chapter5-economics' },
