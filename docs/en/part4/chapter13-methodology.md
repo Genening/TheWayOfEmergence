@@ -1,8 +1,8 @@
 ---
-title: "Chapter 10: Methodology Application Guide"
+title: "Chapter 13: Methodology Application Guide"
 ---
 
-# Chapter 10: Methodology Application Guide
+# Chapter 13: Methodology Application Guide
 
 ## From Theory to Practice
 

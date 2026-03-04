@@ -1,8 +1,8 @@
 ---
-title: "Chapter 12: Understanding the Self Through the Emergence Framework"
+title: "Chapter 15: Understanding the Self Through the Emergence Framework"
 ---
 
-# Chapter 12: Understanding the Self Through the Emergence Framework
+# Chapter 15: Understanding the Self Through the Emergence Framework
 
 ## You Are a Miracle of Emergence
 

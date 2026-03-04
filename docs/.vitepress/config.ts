@@ -23,7 +23,8 @@ export default defineConfig({
             items: [
               { text: '第一部分：理论基础', link: '/part1/chapter1-framework' },
               { text: '第二部分：跨学科应用', link: '/part2/chapter3-physics' },
-              { text: '第三部分：方法论指南', link: '/part3/chapter10-methodology' },
+              { text: '第三部分：框架的深层规律', link: '/part3/chapter10-elements' },
+              { text: '第四部分：方法论指南', link: '/part4/chapter13-methodology' },
             ]
           }
         ],
@@ -57,12 +58,21 @@ export default defineConfig({
             ]
           },
           {
-            text: '第三部分：方法论指南',
+            text: '第三部分：框架的深层规律',
             collapsed: false,
             items: [
-              { text: '第十章：方法论应用指南', link: '/part3/chapter10-methodology' },
-              { text: '第十一章：层级的相对性', link: '/part3/chapter11-hierarchy' },
-              { text: '第十二章：用涌现框架理解自我', link: '/part3/chapter12-self' }
+              { text: '第十章：元素的规律', link: '/part3/chapter10-elements' },
+              { text: '第十一章：关系的规律', link: '/part3/chapter11-relations' },
+              { text: '第十二章：涌现的规律', link: '/part3/chapter12-emergence-patterns' }
+            ]
+          },
+          {
+            text: '第四部分：方法论指南',
+            collapsed: false,
+            items: [
+              { text: '第十三章：方法论应用指南', link: '/part4/chapter13-methodology' },
+              { text: '第十四章：层级的相对性', link: '/part4/chapter14-hierarchy' },
+              { text: '第十五章：用涌现框架理解自我', link: '/part4/chapter15-self' }
             ]
           },
           {
@@ -97,7 +107,8 @@ export default defineConfig({
             items: [
               { text: 'Part I: Theoretical Foundation', link: '/en/part1/chapter1-framework' },
               { text: 'Part II: Cross-disciplinary Applications', link: '/en/part2/chapter3-physics' },
-              { text: 'Part III: Methodology Guide', link: '/en/part3/chapter10-methodology' },
+              { text: 'Part III: Deep Patterns of the Framework', link: '/en/part3/chapter10-elements' },
+              { text: 'Part IV: Methodology Guide', link: '/en/part4/chapter13-methodology' },
             ]
           }
         ],
@@ -131,12 +142,21 @@ export default defineConfig({
             ]
           },
           {
-            text: 'Part III: Methodology Guide',
+            text: 'Part III: Deep Patterns of the Framework',
             collapsed: false,
             items: [
-              { text: 'Chapter 10: Methodology Application Guide', link: '/en/part3/chapter10-methodology' },
-              { text: 'Chapter 11: The Relativity of Hierarchies', link: '/en/part3/chapter11-hierarchy' },
-              { text: 'Chapter 12: Understanding the Self', link: '/en/part3/chapter12-self' }
+              { text: 'Chapter 10: The Patterns of Elements', link: '/en/part3/chapter10-elements' },
+              { text: 'Chapter 11: The Patterns of Relations', link: '/en/part3/chapter11-relations' },
+              { text: 'Chapter 12: The Patterns of Emergence', link: '/en/part3/chapter12-emergence-patterns' }
+            ]
+          },
+          {
+            text: 'Part IV: Methodology Guide',
+            collapsed: false,
+            items: [
+              { text: 'Chapter 13: Methodology Application Guide', link: '/en/part4/chapter13-methodology' },
+              { text: 'Chapter 14: The Relativity of Hierarchies', link: '/en/part4/chapter14-hierarchy' },
+              { text: 'Chapter 15: Understanding the Self', link: '/en/part4/chapter15-self' }
             ]
           },
           {
